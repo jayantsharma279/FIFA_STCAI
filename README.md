@@ -1,5 +1,5 @@
 # Systems and Tool-Chains for AI Engineers
-## Analysis of the FIFA 2022 Compete Player Dataset
+## Analysis of the FIFA Complete Player Dataset
 https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
 
 ### Contributers
