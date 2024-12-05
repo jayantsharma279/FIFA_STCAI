@@ -3,8 +3,12 @@
 https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
 
 ### Contributers
- - Rishi Mandyam (rmandyam)
  - Jayant Sharma (jayantsh)
+ - Rishi Mandyam (rmandyam)
+
+ This project describes the data cleaning, data engineering, model set up and tuning from scratch for four different machine learning models, on a dataset of FIFA players over the years 2015-2022, to predict the overall attributes and game results. Packages and technologies such as SparkML, PyTorch, Apache Hadoop, PostgreSQL, Apache Kafka, Docker, Kubernetes, GitHub Actions etc have been used for the implementation. 
+
+ The models were run locally, as well as on the Google Cloud Platform. The model was deployed using containerization though Docker, and the outcomes were streamed across different consumers through Apache Kafka. 
 
 ### Feature Descriptions
 <details>
